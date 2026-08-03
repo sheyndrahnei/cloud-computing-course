@@ -1,0 +1,1 @@
+activities/README.md
