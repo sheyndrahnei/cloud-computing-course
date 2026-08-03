@@ -28,10 +28,20 @@ This repository serves as my organized workspace for all course requirements, in
 
 ```
 cloud-computing-course/
+│
 ├── activities/
-├── projects/
+│   └── README.md
+│
 ├── notes/
+│   └── README.md
+│
+├── projects/
+│   └── README.md
+│
 ├── reflections/
+│   ├── README.md
+│   └── cloud-concepts-reflection.md
+│
 └── README.md
 ```
 
