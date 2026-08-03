@@ -18,7 +18,7 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - Name: SHEYNDRAH NEI P. BARBO
-  Course/Section: BS INFORMATION TECHNOLOGY 4G
+-  Course/Section: BS INFORMATION TECHNOLOGY 4G
 - Instructor: JENKIELYN TORRES
 - School Year: 2026–2027
 
