@@ -1,1 +1,13 @@
 cloud-concepts-reflection.md
+
+# Cloud Computing Concepts Reflection
+
+Cloud computing has become an important part of my daily life because many of the applications I use depend on cloud services. Three cloud services that I regularly use are Google Drive, Facebook Messenger, and Canva.
+
+Google Drive is an example of Software as a Service (SaaS) because it allows users to store, access, and manage files through a web browser without installing complex software. It uses the Public Cloud deployment model since the service is available to anyone with a Google account.
+
+Facebook Messenger is also a Software as a Service (SaaS). It enables instant messaging, voice calls, and video calls over the internet. Messenger operates using the Public Cloud because millions of users around the world access the same cloud-based platform.
+
+Canva is another Software as a Service (SaaS). It provides online tools for creating presentations, posters, resumes, and other graphic designs. Canva is deployed through the Public Cloud since users access it online using their accounts.
+
+Version control is essential in cloud computing because it records every change made to files and projects. If an error occurs, developers can easily restore previous versions. Git and GitHub help teams collaborate efficiently by allowing multiple users to work on the same project without overwriting each other's work. Team members can review changes, create branches for new features, merge updates safely, and monitor project history. This improves teamwork, reduces mistakes, and keeps cloud-based projects organized. Learning GitHub has helped me understand how professional software developers manage projects and collaborate effectively in cloud environments.
