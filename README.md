@@ -17,10 +17,10 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- **Name:** Sheyndrah Nei P. Barbo
-- **Course/Section:** BS Information Technology
-- **Instructor:** (Your Instructor's Name)
-- **School Year:** 2026–2027
+- **Name: SHEYNDRAH NEI P. BARBO
+- **Course/Section: BS INFORMATION TECHNOLOGY
+- **Instructor: JENKIELYN TORRES
+- **School Year: 2026–2027
 
 ---
 
