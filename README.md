@@ -1,2 +1,7 @@
-# cloud-computing-course
-Repository for course activities, notes, and projects in Cloud Computing.
+cloud-computing-course
+│
+├── activities
+├── notes
+├── projects
+├── reflections
+└── README.md
